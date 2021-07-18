@@ -1,0 +1,1 @@
+a neural network model trained on primes,to give the total no of primes incountered upto n.
